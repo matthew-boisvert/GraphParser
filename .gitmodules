@@ -1,0 +1,3 @@
+[submodule "PaRMAT"]
+	path = PaRMAT
+	url = https://github.com/farkhor/PaRMAT.git
